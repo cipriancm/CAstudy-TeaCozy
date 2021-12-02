@@ -45,7 +45,7 @@ body {
 }
 
 .mission-container {
-    background-image: url("/Users/ciprianciomag/Documents/CodeAcademy/Tea Cozy/Res/Img/img-mission-background.jpg");
+    background-image: url("Res/Img/img-mission-background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     height: 700px;
@@ -82,7 +82,7 @@ body {
     padding-top: 10px;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url("/Users/ciprianciomag/Documents/CodeAcademy/Tea Cozy/Res/Img/img-locations-background.jpg");
+    background-image: url("Res/Img/img-locations-background.jpg");
     background-size: cover;
 }
 
